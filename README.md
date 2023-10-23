@@ -1,6 +1,6 @@
 # MERN STACK TO DO LIST APP FRONTEND
 
-created with react framework, express for the backend server and mongodb for database. intergrated with CRUD operation
+created with react framework, express for the backend server, mongodb for database and created with RESTful API for CRUD operations
 ### UI
 ![tmms](https://github.com/beernaard/task-manager-mernstack-frontend/assets/142719026/63beed7b-8f39-4dc7-b6cb-d01cdbb22cec)
 
